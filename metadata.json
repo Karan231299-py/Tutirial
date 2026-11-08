@@ -1,0 +1,6 @@
+{
+  "name": "AETHERIA — The Celestial Awakening",
+  "description": "An award-winning Awwwards-tier scroll-driven cinematic experience showcasing the awakening of the ancient Tree of Life, powered by GSAP, Lenis, and Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
